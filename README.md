@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using Kotlin's `removeIf()` function with `mutableListOf`. The `removeIf()` function modifies the list while iterating over it, which can lead to unexpected behavior.  The `bug.kt` file showcases the problem and `bugSolution.kt` provides a correct solution. 
